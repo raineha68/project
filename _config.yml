@@ -1,0 +1,25 @@
+title:              Clean Blog
+email:              your-email@example.com
+description:        A Blog Theme by Start Bootstrap
+author:             Start Bootstrap
+baseurl:            "/startbootstrap-clean-blog-jekyll"
+url:                "https://startbootstrap.github.io"
+
+# Social Profiles
+twitter_username: https://twitter.com/gilsonkcym?lang=en
+github_username:    https://github.com/gilson27/
+facebook_username: https://www.facebook.com/gilson.varghese.12
+medium_username:  https://medium.com/@gilsonvarghese
+linkedin_username: https://www.linkedin.com/in/gilsonv/
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site

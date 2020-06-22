@@ -1,0 +1,2 @@
+I"s<p>Adding a Linux kernel module in nvidia jetson could be a little tricky. This article will cover the entire process of adding a custom kernel module and flashing jetson nano with the rootfs image. I will also describe the possible issues that might occur and how to solve them. The instructions are applicable for Jetson Nano module with jetpack 4.3 on Linux host.</p>
+:ET
