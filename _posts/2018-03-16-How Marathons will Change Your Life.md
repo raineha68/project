@@ -2,7 +2,7 @@
 layout: post
 title:  "How Marathons will Change Your Life?"
 date:   23/04/2018
-categories: a
+categories: jekyll update
 permalink: /:categories/:title/
 author: Gilson Varghese
 background: '/img/marathon.jpg'
